@@ -1,4 +1,4 @@
-package br.com.todolist.user;
+package br.com.natanaelvich.todolist.user;
 
 public class UserModel {
     public String username;
