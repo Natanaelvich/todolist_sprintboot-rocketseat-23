@@ -10,7 +10,7 @@
         {
           "name": "maven",
           "commands": [
-            "mvn spring-boot:run"
+            "sh scripts/start-dev.sh"
           ],
           "order": 0,
           "autoExecuteCommands": true
