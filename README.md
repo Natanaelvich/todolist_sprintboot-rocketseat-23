@@ -13,7 +13,9 @@ This repository is a sample project to demonstrate how to use Spring Boot to cre
 
 ### Running the project
 
-### Running the tests
+```bash
+mvn spring-boot:run
+```
 
 ## License
 
