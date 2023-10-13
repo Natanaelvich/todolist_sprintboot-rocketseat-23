@@ -9,7 +9,9 @@ This repository is a sample project to demonstrate how to use Spring Boot to cre
 - Java
 - Spring Boot
 - Maven
-
+- BCrypt
+- JPA
+- H2 Database
 
 ### Running the project
 
