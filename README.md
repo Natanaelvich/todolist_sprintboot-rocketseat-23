@@ -13,6 +13,11 @@ This repository is a sample project to demonstrate how to use Spring Boot to cre
 - JPA
 - H2 Database
 
+## Prerequisites
+
+- Java 17
+- Maven 3.8.2
+
 ### Running the project
 
 ```bash
